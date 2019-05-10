@@ -1,2 +1,2 @@
 # Hello-world
-learning exercise
+This is a exercise for Jonathan
